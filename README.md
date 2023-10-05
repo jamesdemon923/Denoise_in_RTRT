@@ -42,7 +42,7 @@ In the following picture, **A and B need considering depth; B and C need conside
     <img src="images\Equation\Dplane.png" width="400" />
 </div> 
 
-In the above equations, $\widetilde{C}$ is the noisy input image, $D_{normal}$ is the angle between the normals of two points (**for normal information**), $D_{plane}$ provides a better metric than just simply calculating the difference between two depths (**for depth information**).
+In the above equations, $\widetilde{C}$ is the color of noisy input images, $D_{normal}$ is the angle between the normals of two points (**for normal information**), $D_{plane}$ provides a better metric than just simply calculating the difference between two depths (**for depth information**).
 
 ### Temporal Accumulation:
 
